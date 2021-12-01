@@ -1,2 +1,2 @@
 # Linguagem-C
- Exercícios e estudos relacionados a linguagem de programação C.
+ Exercícios relacionados ao estudo da linguagem de programação C.
