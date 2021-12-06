@@ -20,7 +20,7 @@ void inserirElemento()	//função de inserção
 	}
 }
 
-void removerElemento()	//função de inserção
+void removerElemento()	//função de remoção
 {
 	if (quant == -1)
 		printf ("\nA fila já está vazia!");							
